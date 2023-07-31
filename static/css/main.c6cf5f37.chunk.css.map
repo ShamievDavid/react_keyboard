@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,KAGC,uDAA2D","file":"main.c6cf5f37.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nhtml {\n  font-family: Arial, \"Helvetica Neue\", Helvetica, sans-serif;\n}\n"]}
